@@ -21,7 +21,7 @@
 
 1. **Clone repository & masuk folder**
    ```
-   git clone <repo-url>
+   git clone https://github.com/tvpmw/waprint.git
    cd waprint
    ```
 
