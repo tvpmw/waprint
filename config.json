@@ -1,0 +1,30 @@
+{
+  "printSettings": {
+    "allowedFormats": [
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".txt"
+    ],
+    "maxFileSize": 10485760,
+    "printerName": "\\\\server\\PrinterName",
+    "defaultCopies": 1,
+    "allowedUsers": [],
+    "autoCleanup": true,
+    "cleanupInterval": 1800000
+  },
+  "bot": {
+    "adminNumbers": ["628000000000"],
+    "enableLogging": true,
+    "responseLanguage": "id"
+  },
+  "security": {
+    "enableRateLimit": true,
+    "maxRequestsPerHour": 50,
+    "enableFileValidation": true,
+    "quarantineEnabled": false
+  }
+}
