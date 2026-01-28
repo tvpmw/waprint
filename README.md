@@ -139,3 +139,5 @@ MIT License
 
 **Kontribusi & saran sangat diterima!**  
 Powered by Enhanced WhatsApp Print Bot.
+
+**Terimakasih sudah mencoba**
